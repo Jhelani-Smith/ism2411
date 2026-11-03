@@ -1,13 +1,11 @@
 # Module 10 - Inventory List Manager
 # Reflection 1:
-# The most surprising thing about lists in Python is that they can be
-# changed after they are created. I can add, remove, sort, and access
-# items using indexes without creating a new list every time.
+# That for calling upon an item an a list '0' is the first item
 #
 # Reflection 2:
-# A Python list would be useful for managing inventory at a business.
-# Instead of manually sorting and filtering products in Excel, I could
-# quickly add items, remove items, and find products based on conditions.
+# In my calculus class I've had to sort and identify different numeralical patterns
+# based on an equation and python's lists would have helped with that
+
 
 # Exercise 1: Build the list
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
